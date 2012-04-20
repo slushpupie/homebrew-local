@@ -1,6 +1,6 @@
 require 'formula'
 
-class vim-orgmode < Formula
+class vim_orgmode < Formula
   homepage 'https://github.com/jceb/vim-orgmode
   head 'https://github.com/jceb/vim-orgmode.git', :tag => 'v0.4.1'
 
