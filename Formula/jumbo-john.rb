@@ -1,6 +1,6 @@
 require 'formula'
 
-class John < Formula
+class JumboJohn < Formula
   homepage 'http://www.openwall.com/john/'
   url 'http://www.openwall.com/john/g/john-1.7.9-jumbo-6.tar.bz2'
   md5 '5b62e8089c0ca6b71f5f27ad5c87a363'
